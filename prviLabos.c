@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 //funkcija za izračun binomnog koeficijenta (PROBAAAAAAAAAA :):):):):))
+//hehe
 unsigned long long binomniKoeficijent(unsigned long long n, unsigned long long k) {
 
     //osnovna provjera kod binomnog koeficijenta, rezultat je automatski 0
